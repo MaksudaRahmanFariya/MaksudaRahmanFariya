@@ -1,6 +1,5 @@
 
-<div style="background-image: url('img_girl.jpg');">
-  <p align="left">
+<p align="left">
 <a href="https://twitter.com/fariyamaksuda" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63513412/116819976-803e2d00-ab94-11eb-9ac3-00ea003a253b.png" alt="fariyamaksuda" height="30" width="30"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/maksudarahmanfariya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63513412/116819917-38b7a100-ab94-11eb-85ec-a68aa13bed8c.png" alt="maksudarahmanfariya" height="30" width="30"/></a>
@@ -11,14 +10,12 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 
-</p>
-</div>
-  
+</p> 
 
   
 
 ### Hi there 👋
-I am Fariya . My main interest lies in Machine Learning,AI and Computer Vision . I have also basic knowledge in HTML,CSS,JavaScript. I am always curious to learn something new. 
+I am Fariya . My main interest lies in Machine Learning,AI and Computer Vision,NLP . I have also basic knowledge in HTML,CSS,JavaScript. I am always curious to learn something new. 
 
 
 
