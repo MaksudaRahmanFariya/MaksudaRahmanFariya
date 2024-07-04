@@ -24,6 +24,6 @@ I am Fariya . My main interest lies in Machine Learning,AI and Computer Vision,N
 - 👯 I’m looking to collaborate on Machine Learning and AI
 - 🤔 I’m looking for intern as research assistance.
 - 💬 Ask me about OpenCV, Deep Learning, ML.
-- 📫 How to reach me: rahman1709023@stud.kuet.ac.bd or fariyamaksudarahman@gmail.com
+- 📫 How to reach me:fariyamaksudarahman@gmail.com
 - 😄 Pronouns: you can give one
 - ⚡ Fun fact: I can paint on Lizard.
