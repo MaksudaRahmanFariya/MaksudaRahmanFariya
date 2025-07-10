@@ -1,5 +1,7 @@
-## It's Me, Maksuda Rahman
-## In the silence of thought, building the future of artificial intelligence
+![Profile views](https://komarev.com/ghpvc/?username=MaksudaRahmanFariya&label=Profile%20views&color=blue&style=flat)
+
+# It's Me, Maksuda Rahman
+# In the silence of thought, building the future of AI
 
 <!--
 **MaksudaRahmanFariya/MaksudaRahmanFariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
