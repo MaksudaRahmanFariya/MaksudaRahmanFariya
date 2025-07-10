@@ -1,7 +1,18 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MaksudaRahmanFariya&label=Profile%20views&color=blue&style=flat)
+<h2 align="center">Hi, It Me. 😎</h2>
+
+<h3 align="center">In the silence of thought, building the future of AI 😎</h3>
+
+
+
 
 # It's Me, Maksuda Rahman
 # In the silence of thought, building the future of AI
+<h3 align="center">When my code finally works 😎</h3>
+
+<p align="center">
+  <img src="assets/code-is-working.gif" alt="My Code is Working" width="400"/>
+</p>
 
 <!--
 **MaksudaRahmanFariya/MaksudaRahmanFariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
