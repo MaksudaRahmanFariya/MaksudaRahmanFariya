@@ -1,4 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MaksudaRahmanFariya&label=Profile%20views&color=blue&style=flat)
+
+
+<p align="center">
+  <img src="assets/code-is-working.gif" alt="My Code is Working" width="400"/>
+</p>
+
 <h2 align="center">Hi, It Me. 😎</h2>
 
 <h3 align="center">In the silence of thought, building the future of AI 😎</h3>
