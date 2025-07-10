@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Maksuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksudaRahmanFariya&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaksudaRahmanFariya&theme=radical)](https://git.io/streak-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=MaksudaRahmanFariya&theme=radical)
