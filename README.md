@@ -5,7 +5,7 @@
   <img src="212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="My Code is Working" width="800"/>
 </p>
 
-<h1 align="center">Hi, It Me. 😎</h1>
+<h1 align="center">Hi, It's Me. 😎</h1>
 
 <h3 align="center">In the silence of thought, building the future of AI 😎</h3>
 
