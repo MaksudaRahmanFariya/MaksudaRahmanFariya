@@ -36,10 +36,10 @@
 ![Maksuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksudaRahmanFariya&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaksudaRahmanFariya&theme=radical)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=MaksudaRahmanFariya&theme=radical)
-<h3>Contact</h3>
+<h3>Platform</h3>
 <p>
-  <a href="">
-    <img src="code1.gif" width="100"/>
+  <a href="https://www.youtube.com/@maksudarahmanfariya8992">
+    <img src="235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100"/>
   </a>
   <a href="https://github.com">
     <img src="code2.gif" width="100"/>
