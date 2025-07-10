@@ -44,11 +44,11 @@
   <a href="https://www.linkedin.com/in/maksuda-rahman-fariya23/">
     <img src="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
   </a>
-    <a href="https://www.linkedin.com/in/maksuda-rahman-fariya23/">
+    <a href="https://www.instagram.com/__lunaverse_lilo__/">
     <img src="235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"/>
   </a>
     </a>
-    <a href="https://www.linkedin.com/in/maksuda-rahman-fariya23/">
+    <a href="https://github.com/MaksudaRahmanFariya">
     <img src="212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
   </a>
 </p>
