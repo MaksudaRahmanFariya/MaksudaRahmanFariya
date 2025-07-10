@@ -17,9 +17,12 @@
 - 📫 How to reach me: fariyamaksudarahman@gmail.com
 - 😄 Pronouns: She/Her
   
-###Tools & Language
+<h3>Tools & Language</h3>
 <p>
   <img src="212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"width="100"/>
+  <img src="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"width="100"/>
+  <img src="238200437-de038172-e903-4951-926c-755878deb0b4.gif"width="100"/>
+  
 </p>
 <p align="center">
   <a href="https://linkedin.com">
