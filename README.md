@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/code-is-working.gif" alt="My Code is Working" width="400"/>
+  <img src="212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="My Code is Working" width="400"/>
 </p>
 
 <h2 align="center">Hi, It Me. 😎</h2>
