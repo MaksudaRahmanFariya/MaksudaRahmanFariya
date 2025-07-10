@@ -18,6 +18,9 @@
 - 😄 Pronouns: She/Her
   
 ###Tools & Language
+<p>
+  <img src="212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"width="100"/>
+</p>
 <p align="center">
   <a href="https://linkedin.com">
     <img src="code1.gif" width="200"/>
