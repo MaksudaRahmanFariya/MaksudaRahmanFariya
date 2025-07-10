@@ -17,7 +17,7 @@
 - 📫 How to reach me: fariyamaksudarahman@gmail.com
 - 😄 Pronouns: She/Her
   
-<h3>Tools & Language</h3>
+<h3>Tools & Languages</h3>
 <p>
   <img src="212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"width="100"/>
   <img src="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"width="100"/>
@@ -36,3 +36,13 @@
 ![Maksuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksudaRahmanFariya&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaksudaRahmanFariya&theme=radical)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=MaksudaRahmanFariya&theme=radical)
+<h3>Contact</h3>
+<p>
+  <a href="">
+    <img src="code1.gif" width="100"/>
+  </a>
+  <a href="https://github.com">
+    <img src="code2.gif" width="100"/>
+  </a>
+</p>
+
