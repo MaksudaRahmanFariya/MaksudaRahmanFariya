@@ -36,13 +36,20 @@
 ![Maksuda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaksudaRahmanFariya&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaksudaRahmanFariya&theme=radical)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=MaksudaRahmanFariya&theme=radical)
-<h3>Platform</h3>
+<h3>Platforms</h3>
 <p>
   <a href="https://www.youtube.com/@maksudarahmanfariya8992">
     <img src="235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100"/>
   </a>
-  <a href="https://github.com">
-    <img src="code2.gif" width="100"/>
+  <a href="https://www.linkedin.com/in/maksuda-rahman-fariya23/">
+    <img src="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
+  </a>
+    <a href="https://www.linkedin.com/in/maksuda-rahman-fariya23/">
+    <img src="235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"/>
+  </a>
+    </a>
+    <a href="https://www.linkedin.com/in/maksuda-rahman-fariya23/">
+    <img src="212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
   </a>
 </p>
 
